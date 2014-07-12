@@ -1,0 +1,6 @@
+# Editor files
+*.swp
+
+# Build artifacts
+*.pyc
+*.pyo
